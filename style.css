@@ -765,6 +765,10 @@ u {
         height: 320px;
 
     }
+
+    .why-wait .container {
+        padding: 60px 20px;
+    }
 }
 
 
