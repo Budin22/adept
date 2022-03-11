@@ -707,6 +707,19 @@ u {
         align-items: center;
     }
 
+    .localize {
+        padding: 60px 0;
+    }
+    .localize-item {
+        max-width: 50%;
+        width: 100%;
+        margin-right: 0;
+        padding: 146px 10px 0 10px;
+    }
+
+    .localize-text {
+        max-width: 80%;
+    }
 }
 
 
@@ -769,6 +782,13 @@ u {
     }
     .app .container {
         background-position: center 195px;
+    }
+
+    .localize-item {
+        max-width: 80%;
+    }
+    .localize-list {
+        justify-content: center;
     }
 }
 
