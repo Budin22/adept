@@ -737,6 +737,14 @@ u {
         padding-right: 10px;
         padding-left: 10px;
     }
+
+    .chief .container {
+        padding: 60px 20px;
+    }
+    .chief-img {
+        width: 310px;
+        height: 310px;
+    }
 }
 
 
@@ -810,6 +818,16 @@ u {
 
     .boost-item {
         width: 100%;
+        max-width: 100%;
+    }
+
+    .chief .container {
+        display: flex;
+        flex-wrap: wrap-reverse;
+        justify-content: center;
+    }
+    .chief-text {
+        margin-right: 0;
         max-width: 100%;
     }
 }
