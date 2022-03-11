@@ -687,6 +687,25 @@ u {
     .contact {
         padding: 0 10px;
     }
+    .developers {
+        padding: 0;
+    }
+    .developers .container {
+        background-position: center 150px;
+        background-size: 300px 300px;
+        padding: 50px 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .developers .app-title {
+        margin-bottom: 360px;
+    }
+    .developers .wrap {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 
 }
 
