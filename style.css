@@ -745,6 +745,16 @@ u {
         width: 310px;
         height: 310px;
     }
+
+    .rate .container {
+        flex-wrap: wrap;
+        padding: 60px 20px 60px 243px;
+        background-position: 20px center;
+    }
+    .rate-title {
+        max-width: 100%;
+        margin-right: 0;
+    }
 }
 
 
@@ -829,6 +839,21 @@ u {
     .chief-text {
         margin-right: 0;
         max-width: 100%;
+    }
+
+    .rate .container {
+        padding: 20px;
+        background-position: 30px 80px;
+
+    }
+    .rate-body-text {
+        padding: 155px 0 0 10px;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+    .rate-title {
+        font-size: 20px;
+        line-height: 30px;
     }
 }
 
