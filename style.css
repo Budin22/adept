@@ -755,6 +755,16 @@ u {
         max-width: 100%;
         margin-right: 0;
     }
+
+    .integrate .container {
+        padding: 60px 20px;
+    }
+
+    .integrate-img {
+        width: 736px;
+        height: 320px;
+
+    }
 }
 
 
@@ -855,6 +865,17 @@ u {
         font-size: 20px;
         line-height: 30px;
     }
+
+    .integrate-img {
+        width: 345px;
+        height: 150px;
+
+    }
+    .integrate-title {
+        font-size: 36px;
+        line-height: 50px;
+    }
+
 }
 
 
