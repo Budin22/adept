@@ -720,6 +720,23 @@ u {
     .localize-text {
         max-width: 80%;
     }
+
+    .boost .container {
+        padding: 60px 20px;
+    }
+    .boost-title {
+        text-align: center;
+    }
+    .boost-list {
+        flex-wrap: wrap;
+    }
+    .boost-item {
+        width: 100%;
+        max-width: 50%;
+        margin-right: 0;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
 }
 
 
@@ -789,6 +806,11 @@ u {
     }
     .localize-list {
         justify-content: center;
+    }
+
+    .boost-item {
+        width: 100%;
+        max-width: 100%;
     }
 }
 
